@@ -1,9 +1,0 @@
-Implementation idea
-
-For Rural areas,
-Anganwadi centers is what people have access to in Rural Areas, it is their central hub for all their children health concerns. We provide a local model that is installed in their tabs that runs locally because they donot have access to the internet. This model gives an interface where the doctor can enter parameters like weight, height, vaccination history, etc, later we use this data to predict the probability of the child getting a certain condition like malnutrition. This model is also responsible for constantly sending SMS to parents reminding them of upcoming vaccines.  
-
-Nurtition based classification of areas for better understanding of deficient nutrients in food children consume which later points to malnutrition. Uttar Pradesh - rice, dal, roti. Train model based on this too. 
-
-For Urban areas,
-Same model is used but as a application on parent's phone. 
